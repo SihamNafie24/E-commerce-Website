@@ -154,15 +154,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Siham Nafie](https://github.com/SihamNafie24) - Full Stack Web Developer
 
-## 🙏 Acknowledgments
+nowledgments
+
+##  Acknowledgments
+
 
 - React.js team
 - Tailwind CSS team
 - All contributors and supporters
 
-## 📞 Support
 
-For support, email siham.nafie@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/siham-nafie).
+ connect with me on [LinkedIn](https://linkedin.com/in/siham-nafie).
+
+For support, email nafiesiham36@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/siham-nafie).
+17
 
 ## 🔗 Connect with Me
 
@@ -171,5 +176,7 @@ For support, email siham.nafie@gmail.com or connect with me on [LinkedIn](https:
 - Location: Casablanca, Morocco
 
 ---
+
+Made with ❤️ by [Siham Nafie](https://github.com/SihamNafie24) 
 
 Made with ❤️ by [Siham Nafie](https://github.com/SihamNafie24) 
